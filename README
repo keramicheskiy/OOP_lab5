@@ -1,1 +1,13 @@
 #Вариант 16.
+
+#Компиляция:
+mkdir build
+cd build
+cmake ..
+cmake --build .
+
+#Для тестов:
+./tests
+
+#Для ручной проверки:
+./main
